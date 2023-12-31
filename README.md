@@ -1,7 +1,6 @@
 # Responsive Color Flipper
 
-In this project, I learned simple route operations and component changes according to the URL with react-router-dom. <br>
-I have a better understanding of useState and useEffect.
+In this project, I learned simple route operations to the URL with react-router-dom. <br>
 
 ### Phone View 
 ![hex phone](https://github.com/MetinKb/react-color-flipper/assets/114526516/81dc6591-2bb5-45cc-9ca8-d84cdb910efd)
